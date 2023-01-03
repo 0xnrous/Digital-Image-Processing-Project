@@ -14,14 +14,14 @@ fButton 6: Edge Detection\
 Button 7:Average Blurring ( #! In Button 7 The Kernel Side Length Must be Odd) \
 Button 8: Sharping  \
 Button 9: Histogram Equalization \
-Button10: Salt Noise      \ 
+Button10: Salt Noise \
 Button11: Gussin Noise \
 Button12: Gray image\
 Button13: Fourier Transform \
 Button 14:Inverse Fourier\
 Button15: MIN Filter\ 
 Button16: MAX Filter \
-Button17: Median\
+Button17: Median \
 
 <img width="1512" alt="Screen Shot 2022-12-12 at 4 53 14 PM" src="https://user-images.githubusercontent.com/83542891/210368462-b14a67fb-56a5-4db9-8989-182323cde601.png">
 \
