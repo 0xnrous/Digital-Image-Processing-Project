@@ -1,8 +1,8 @@
-# ImageProject
-This Project For Digital image Processing using Python to make some Function
-Function used (Not in sequence) : 
-Please Read this List
-(Image will show in this box)
+# ImageProject\
+This Project For Digital image Processing using Python to make some Function\
+Function used (Not in sequence) : \
+Please Read this List \
+(Image will show in this box)\
 Order of Button from Left to Right 
 FIRST  LOAD  IMAGE  FROM  BATTON  IN  TOP-RIGHT 
 Button 1: Contrast (Brightness - Darkness) 
